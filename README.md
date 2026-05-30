@@ -15,7 +15,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=NajmuddinAhmad&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=NajmuddinAhmad&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
@@ -105,13 +105,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NajmuddinAhmad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=NajmuddinAhmad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&rank_icon=github&show=reviews,discussions_started" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajmuddinAhmad&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajmuddinAhmad&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" height="165" />
 
-<br/><br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=NajmuddinAhmad&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NajmuddinAhmad&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117" />
 
 </div>
 
@@ -131,9 +133,19 @@
 
 ---
 
+## ✍️ Dev Quote
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=NajmuddinAhmad&style=flat-square&color=58a6ff)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=NajmuddinAhmad&style=flat-square&color=blue)
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/NajmuddinAhmad?style=flat-square&color=58a6ff&labelColor=0d1117)
 &nbsp;
